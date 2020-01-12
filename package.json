@@ -10,8 +10,12 @@
     "@types/node": "^12.12.24",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
+    "@types/react-lottie": "^1.2.3",
+    "antd": "^3.26.6",
+    "axios": "^0.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-lottie": "^1.2.3",
     "react-scripts": "3.3.0",
     "typescript": "^3.7.4"
   },
